@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 🧐👋
 
 <!--
 **jasongzy/jasongzy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Jason Guo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jasongzy&show_icons=true&theme=buefy&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
